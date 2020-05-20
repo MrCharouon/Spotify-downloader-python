@@ -1,11 +1,2 @@
-socket
-termios
-tty
-os
-sys
-configparser
-glob
-termcolor
-random
-subprocess
-spotdl
+spotdl==1.2.4
+termcolor==1.1.0
