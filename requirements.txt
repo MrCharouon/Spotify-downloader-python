@@ -1,0 +1,12 @@
+socket
+termios
+tty
+os
+sys
+configparser
+glob
+termcolor
+random
+subprocess
+spotdl
+
