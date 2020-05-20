@@ -1,17 +1,2 @@
-<<<<<<< HEAD
-socket
-termios
-tty
-os
-sys
-configparser
-glob
-termcolor
-random
-subprocess
-spotdl
-
-=======
 spotdl==1.2.4
 termcolor==1.1.0
->>>>>>> c3f1b61489e524b7af9db758b5806e2478e98771
